@@ -7,3 +7,8 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/java/com/xu/sxx/swdroidlib/common/
+src/main/java/com/xu/sxx/swdroidlib/device/
+src/main/java/com/xu/sxx/swdroidlib/time/
+src/main/res/drawable/
