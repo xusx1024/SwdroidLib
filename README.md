@@ -1,6 +1,6 @@
 # SwdroidLib
 
-android项目常用工具库。
+android项目常用工具集
 
 #### gradle引用 ####
 1. `	allprojects {
