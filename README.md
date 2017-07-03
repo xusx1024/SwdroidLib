@@ -16,7 +16,7 @@ android项目常用工具集
 #### maven引用 ####
 1. `<repositories>
 		<repository>
-		    <id>jitpack.io</id> 
+		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>`
