@@ -10,7 +10,7 @@ android项目常用工具集
 		}
 	}`
 2. `dependencies {
-	        compile 'com.github.xusx1024:SwdroidLib:1.0.0'
+	        compile 'com.github.xusx1024:XdroidLib:1.0.0'
 	}`
   
 #### maven引用 ####
@@ -22,6 +22,6 @@ android项目常用工具集
 	</repositories>`
 2. `<dependency>
 	    <groupId>com.github.xusx1024</groupId>
-	    <artifactId>SwdroidLib</artifactId>
+	    <artifactId>XdroidLib</artifactId>
 	    <version>1.0.0</version>
 	</dependency>`
