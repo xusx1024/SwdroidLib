@@ -5,11 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:/gradleAll/gradle-4.0-milestone-1-all/gradle-4.0-milestone-1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/swdroidlib" />
+            <option value="$PROJECT_DIR$/xdroidlib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
